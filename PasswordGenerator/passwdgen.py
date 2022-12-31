@@ -6,7 +6,7 @@ numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 password_normal_set = []
 password_advanced_set = []
-print("Welcome to the PyPassword Generator v0.2!")
+print("Welcome to the PyPassword Generator v0.3!")
 
 
 def passwordLoop():
