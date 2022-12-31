@@ -1,7 +1,7 @@
-# PasswordGenerator
+# PasswordGenerator v0.3
 
 1. run and execute passwdgen.py
-1. input 'yes' to exit program
+2. input 'yes' to exit program
 
 sample:
 
